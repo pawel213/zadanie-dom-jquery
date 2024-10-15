@@ -1,0 +1,15 @@
+body{
+    color:azure;
+    background-color: #696969;
+}
+
+#opinia{
+    color:rgb(70, 255, 70);
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h1{
+    color: limegreen;
+}
